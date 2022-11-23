@@ -1,6 +1,6 @@
 # conflict-app-study
 
-for test app study
+앱스터디 충돌😵
 
 one 
 
